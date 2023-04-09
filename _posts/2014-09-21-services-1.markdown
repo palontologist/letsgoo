@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: access to a community of experts:<br>Special Thanks
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+ Collaborate with experts and organizations to tackle challenges related to sustainable development goals.
+ Create a personalized profile and tailor your experience on FrontForumFocus to your specific interests and needs.
